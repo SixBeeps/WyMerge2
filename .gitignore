@@ -1,3 +1,0 @@
-# Ignore folders containing local builds
-bin/
-obj/
