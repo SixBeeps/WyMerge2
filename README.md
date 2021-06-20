@@ -1,3 +1,5 @@
+![out](https://user-images.githubusercontent.com/19637928/122663895-ba2ab900-d16b-11eb-89ec-5ee0cc63da45.gif)
+
 # WyMerge2
 A better, more efficient implementation of the WyMerge algorithm.
 
