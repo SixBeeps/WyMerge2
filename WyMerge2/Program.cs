@@ -63,6 +63,7 @@ By default, WyMerges compare by hue");
                     case "/i":
                     case "-i":
                         frameFolder = args[argIdx + 1];
+                        if (!Directory.Exists(frameFolder)) Directory.CreateDirectory(frameFolder);
                         argIdx++;
                         break;
                     case "/f":

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "juva0hDmOkdYkRQHTAjNvRdXGbI1ly/2AxQhEndVILzT1XKHnlr6dvB5TM0PPw3tRoAPiqFCV1SOS7+bo5fBsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brand\\source\\repos\\WyMerge2\\WyMerge2\\WyMerge2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
